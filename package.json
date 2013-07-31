@@ -19,5 +19,4 @@
   { "type": "git"
   , "url": "git://github.com/eschulte/node-gpgme.git"
   }
-, "scripts": { "install": "node-waf configure clean build" }
 }
