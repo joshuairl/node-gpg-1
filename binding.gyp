@@ -2,7 +2,7 @@
   "targets": [
     {
       "target_name": "gpg",
-      "sources": [ "gpg.cc" ]
+      "sources": [ "src/gpg.cc" ]
     }
   ]
 }
